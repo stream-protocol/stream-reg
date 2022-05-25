@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/sen-assets/index.js",
+  "appId": "sen_assets",
+  "name": "Sen Assets",
+  "author": {
+    "name": "Sentre",
+    "email": "hi@sentre.io"
+  },
+  "tags": ["utility", "sentre"],
+  "description": "To manage your SPL tokens by many advanced functions",
+  "verified": true
+}

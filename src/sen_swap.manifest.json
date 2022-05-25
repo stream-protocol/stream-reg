@@ -1,0 +1,12 @@
+{
+  "url": "https://descartesnetwork.github.io/sen-swap/index.js",
+  "appId": "sen_swap",
+  "name": "Sen Swap",
+  "author": {
+    "name": "Sentre",
+    "email": "hi@sentre.io"
+  },
+  "tags": ["dapps", "sentre"],
+  "description": "SPLT Swap for SPL tokens",
+  "verified": false
+}
